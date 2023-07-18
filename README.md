@@ -1,6 +1,6 @@
-# Inro to Image Processing
+# Intro to Image Processing
 
-A Repo for the programming assignments in the "Computer Vision" course.
+A repo for the programming assignments in the "Computer Vision" course.
 
 The assignments include the following subjects:
 1. [Basic refresher on python, numpy, matplotlib, and opencv](basic_python_numpy_matplotlib_opencv\README.md)
